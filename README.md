@@ -44,9 +44,9 @@ pkg install termux-x11-nightly -y
 ```
 
 clear
-```
-if not open display on termux-x11
-```
+
+**if not open display on termux-x11**
+
 then
 ```
 termux-x11 :1 -ac &
