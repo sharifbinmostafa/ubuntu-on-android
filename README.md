@@ -1,7 +1,26 @@
 # ubuntu-on-android
 modified ubuntu on android installation 
 
+**Here we USE 2 Android Application:**
+```
+1. Termux
+```
+```
+2. Termux-x11
+```
 
+**URL:**
+```
+1. https://f-droid.org/en/packages/com.termux/
+```
+```
+2. https://github.com/termux/termux-x11/releases/tag/nightly
+```
+
+**Video Help URL:**
+```
+https://youtu.be/ONlPYrN4UHQ
+```
 
 **Setup Steps**
 
