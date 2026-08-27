@@ -29,7 +29,7 @@ pkg update && pkg upgrade -y
 ```
 Then
 ```
-. <(curl -Ls [https://github.com/sharifbinmostafa/ubuntu-on-android/blob/main/install.sh](https://raw.githubusercontent.com/sharifbinmostafa/ubuntu-on-android/refs/heads/main/install.sh))
+. <(curl -Ls [https://github.com/sharifbinmostafa/ubuntu-on-android/blob/main/install.sh](https://raw.githubusercontent.com/sharifbinmostafa/ubuntu-on-android/refs/heads/main/install.sh)
 ```
 Then
 ```
