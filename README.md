@@ -62,12 +62,20 @@ startxfce4 &
 **NOW RUNNING OUR DISPLAY**
 
 
+**If you want to remove Distro**
+```
+udroid remove jammy:xfce4
+udroid --clear-cache
+```
+
+
+
+
+
 if needed
 ```
 export DISPLAY=:1
 ```
-
-
 
 **OS SUITE Type**
 
