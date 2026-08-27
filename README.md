@@ -76,4 +76,5 @@ udroid install jammy:gnome
 udroid login jammy:gnome
 ```
 
-
+**Help**
+**Main RIPO : https://github.com/RandomCoderOrg/ubuntu-on-andro**
