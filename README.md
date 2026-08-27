@@ -70,6 +70,22 @@ udroid --clear-cache
 
 
 
+**Setting up VNC**
+```
+tigervncserver \
+    -geometry 2560x1080 \
+    -xstartup /usr/bin/xfce4-session \
+    -listen tcp :1 
+```
+
+**Display over other devices**
+```
+tigervncserver \
+    -geometry 2560x1080 \
+    -localhost no \
+    -xstartup /usr/bin/xfce4-session \
+    -listen tcp :1 
+```
 
 
 if needed
