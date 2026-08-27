@@ -108,6 +108,43 @@ udroid install jammy:xfce4
 udroid login jammy:xfce4
 ```
 
+For the complete documentation index, see llms.txt. This page is also available as Markdown.
+
+Copy
+
+🛸udroid-landing
+🐧
+udroid
+udroid Documentation & details
+
+Ubuntu on android
+
+Ubuntu-on-android aims to run ubuntu with pre-installed Desktop Environment, development tools, and software on top of android without root with the help of proot in termux application. This project is just like any other Linux on android projects but with aim of making it easy for end-user on setting up Linux.
+
+codename = udroid
+
+img2 Support Server 
+
+Quick Install
+Install all dependencies and developer-selected Distro
+
+
+Copy
+. <(curl -Ls https://bit.ly/udroid-installer)
+Android app
+An experimental uDroid Android app is in early development. It provides a graphical way to install and manage Linux systems, use the terminal and X11 display, and launch installed Linux applications.
+
+**SUITE Screenshots**
+jammy:gnome
+<img width="2257" height="1080" alt="image" src="https://github.com/user-attachments/assets/39898817-cb49-429d-b1e2-170ac9a0350a" />
+
+jammy:xfce4
+<img width="2292" height="1080" alt="image" src="https://github.com/user-attachments/assets/6918f510-b8d7-4562-b207-11508d7597bb" />
+
+jammy:mate
+<img width="2289" height="1077" alt="image" src="https://github.com/user-attachments/assets/f2a5a866-9bc4-4cae-ae67-e44446480eb1" />
+
+
 
 **Help**
 **Main RIPO : https://github.com/RandomCoderOrg/ubuntu-on-andro**
