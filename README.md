@@ -3,7 +3,7 @@ modified ubuntu on android installation
 
 
 
-**Steps
+**Setup Steps**
 
 ```
 pkg update && pkg upgrade -y
@@ -40,7 +40,7 @@ udroid login jammy:xfce4
 ```
 startxfce4 &
 ```
-** NOW RUNNING OUR DISPLAY
+**NOW RUNNING OUR DISPLAY**
 
 
 if needed
