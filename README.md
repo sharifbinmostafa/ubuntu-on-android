@@ -68,13 +68,22 @@ export DISPLAY=:1
 ```
 
 
-if needed
+
+**OS SUITE Type**
+
 ```
 udroid install jammy:gnome
 ```
 ```
 udroid login jammy:gnome
 ```
+```
+udroid install jammy:xfce4
+```
+```
+udroid login jammy:xfce4
+```
 
 **Help**
 **Main RIPO : https://github.com/RandomCoderOrg/ubuntu-on-andro**
+** also : https://docs.udroid.org/**
