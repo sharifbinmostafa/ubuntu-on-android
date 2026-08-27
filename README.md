@@ -148,4 +148,4 @@ jammy:mate
 
 **Help**
 **Main RIPO : https://github.com/RandomCoderOrg/ubuntu-on-andro**
-** also : https://docs.udroid.org/**
+**also : https://docs.udroid.org/**
